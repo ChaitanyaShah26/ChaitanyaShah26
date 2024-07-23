@@ -45,3 +45,8 @@ https://github.com/ChaitanyaShah26/TicTacToe-PvP-Game
 https://github.com/ChaitanyaShah26/Restaurant-Website
 ```
 > Languages Used:- `HTML`&nbsp;&nbsp;`CSS`
+* Charity Website
+```
+https://github.com/ChaitanyaShah26/Charity-Website
+```
+> Languages Used:- `HTML`&nbsp;&nbsp;`CSS`
