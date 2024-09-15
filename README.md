@@ -15,12 +15,8 @@
 
 <br>
 
-### Languages:
-* HTML
-* CSS
-* Java
-* Java Swing
-* C
+### Languages & Tools:
+[![Languages & Tools](https://skillicons.dev/icons?i=c,java,html,css,js,python,figma,github,git,anaconda,sublime)]()
 
 ### Interests:
 * Web Development
