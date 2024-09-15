@@ -16,7 +16,7 @@
 <br>
 
 ### Languages & Tools:
-[![Languages & Tools](https://skillicons.dev/icons?i=c,java,html,css,js,python,figma,github,git,anaconda,sublime)]()
+[![Languages & Tools](https://skillicons.dev/icons?i=c,java,html,css,js,python,figma,github,git,anaconda,sublime)](#)
 
 ### Interests:
 * Web Development
