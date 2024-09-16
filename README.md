@@ -1,7 +1,5 @@
 # Heyyy,<br> I am Chaitanya Shah! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<hr>
-
 <!-- <div style="background-color: #ffffff; padding: 10px;">
   <a href="https://github.com/ChaitanyaShah26" target="_blank"><img src="profile_readme-images/GitHub_Logo.png" height="50" alt="github-logo"></a> &nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="mailto:sendittochaitanya@gmail.com" target="_blank"><img src="profile_readme-images/Gmail_icon.png" height="50" alt="gmail-logo"></a> &nbsp;&nbsp;&nbsp;&nbsp; 
@@ -13,12 +11,10 @@
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/chaitanyashah_)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/chaitanyav-shah)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/ChaitanyaShah26)
-
-<hr>  
+----
 
 ## I am a Sophomore Year Engineering Student at SVKM's Dwarkadas J. Sanghvi College of Engineering pursuing my degree in Artificial Intelligence(AI) & Data Science. 
 
-<br>
 
 ### Languages & Tools:
 [![Languages & Tools](https://skillicons.dev/icons?i=c,java,html,css,js,python,figma,github,git,anaconda,sublime)](#)
@@ -51,3 +47,11 @@ https://github.com/ChaitanyaShah26/Restaurant-Website
 https://github.com/ChaitanyaShah26/Charity-Website
 ```
 > Languages Used:- `HTML`&nbsp;&nbsp;`CSS`
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ChaitanyaShah26&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ChaitanyaShah26&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChaitanyaShah26&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ChaitanyaShah26&theme=radical&no-frame=false&no-bg=true&margin-w=4)
