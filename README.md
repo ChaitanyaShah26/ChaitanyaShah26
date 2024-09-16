@@ -2,12 +2,17 @@
 
 <hr>
 
-<div style="background-color: #ffffff; padding: 10px;">
+<!-- <div style="background-color: #ffffff; padding: 10px;">
   <a href="https://github.com/ChaitanyaShah26" target="_blank"><img src="profile_readme-images/GitHub_Logo.png" height="50" alt="github-logo"></a> &nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="mailto:sendittochaitanya@gmail.com" target="_blank"><img src="profile_readme-images/Gmail_icon.png" height="50" alt="gmail-logo"></a> &nbsp;&nbsp;&nbsp;&nbsp; 
 	<a href="https://www.linkedin.com/in/chaitanyav-shah" target="_blank"><img src="profile_readme-images/LinkedIn_Logo.png" height="50" alt="linkedin-logo"></a> &nbsp;&nbsp;&nbsp;&nbsp; 
 	<a href="https://instagram.com/chaitanyashah_" target="_blank"><img src="profile_readme-images/Instagram_logo.png" height="50" alt="instagram-logo"></a>
-</div>
+</div> -->
+
+[![GMail](https://skillicons.dev/icons?i=gmail)](mailto:sendittochaitanya@gmail.com)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/chaitanyashah_)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/chaitanyav-shah)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/ChaitanyaShah26)
 
 <hr>  
 
