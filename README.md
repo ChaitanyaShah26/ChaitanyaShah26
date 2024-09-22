@@ -42,7 +42,7 @@
 
 <h2>&#127942; GitHub Trophies<h2>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ChaitanyaShah26" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ChaitanyaShah26&theme=transparent" />
 </p>
 
 
