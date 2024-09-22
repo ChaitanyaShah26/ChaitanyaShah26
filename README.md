@@ -32,6 +32,8 @@
 
 [![My Portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://chaitanyashah.netlify.app)
 
+<br>
+
 <!-- <div style="background-color: #ffffff; padding: 10px;">
   <a href="https://github.com/ChaitanyaShah26" target="_blank"><img src="profile_readme-images/GitHub_Logo.png" height="50" alt="github-logo"></a> &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:sendittochaitanya@gmail.com" target="_blank"><img src="profile_readme-images/Gmail_icon.png" height="50" alt="gmail-logo"></a> &nbsp;&nbsp;&nbsp;&nbsp; 
@@ -42,17 +44,14 @@
 ---
 
 <h2>&#127942; GitHub Trophies<h2>
-    <p align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=ChaitanyaShah26" />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ChaitanyaShah26" />
 </p>
 
 
 <h2 align="center"> ⚙ Languages & Tools ⚙</h2>
 <p align="center">
-    <figure align="center">
-        <img align="center" src="https://skillicons.dev/icons?i=c,java,html,css,js,python,figma,github,git,anaconda,sublime,windows" alt="Tech Stack"/>
-        <figcaption align="center"><small style="font-family: cursive">Tech Stack</small></figcaption>
-    </figure>
+  <img align="center" src="https://skillicons.dev/icons?i=c,java,html,css,js,python,figma,github,git,anaconda,sublime,windows" alt="Tech Stack"/>
 </p>
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ChaitanyaShah26&layout=compact&langs_count=8&card_width=320&theme=transparent&hide_border=true" />
@@ -61,8 +60,8 @@
 
 <h2 align="center">📊 GitHub Stats 📊</h2>
 <div align="center">
-    <img align="left" style="width: 46%" src="https://streak-stats.demolab.com/?user=ChaitanyaShah26&theme=transparent&hide_border=true" />
-    <img align="right" style="width: 46%" src="https://github-readme-stats.vercel.app/api?username=ChaitanyaShah26&show_icons=true&rank_icon=github&theme=transparent&hide_border=true" />
+    <img align="left" width="46%" src="https://streak-stats.demolab.com/?user=ChaitanyaShah26&theme=transparent&hide_border=true" />
+    <img align="right" width="46%" src="https://github-readme-stats.vercel.app/api?username=ChaitanyaShah26&show_icons=true&rank_icon=github&theme=transparent&hide_border=true" />
     <br><br>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChaitanyaShah26&theme=transparent&hide_border=true" width="100%"/>
 </div>
@@ -70,19 +69,19 @@
 
 <h2 align="center">🖥️ My Repositories 🖥️</h2>
 <div align="center" width="100%">
-    <a align="left" width="40%" href="https://github.com/ChaitanyaShah26/Simple-Banking-Portal">
+    <a align="left" width="46%" href="https://github.com/ChaitanyaShah26/Simple-Banking-Portal">
         <img align="center" width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=ChaitanyaShah26&repo=Simple-Banking-Portal&theme=transparent&border_radius=10" alt="Simple Banking Portal">
     </a>
     &nbsp;
-    <a align="right" width="40%" href="https://github.com/ChaitanyaShah26/TicTacToe-PvP-Game">
+    <a align="right" width="46%" href="https://github.com/ChaitanyaShah26/TicTacToe-PvP-Game">
         <img align="center" width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=ChaitanyaShah26&repo=TicTacToe-PvP-Game&theme=transparent&border_radius=10" alt="TicTacToe PvP Game">
     </a>
     <br><br>
-    <a align="left" width="40%" href="https://github.com/ChaitanyaShah26/Restaurant-Website">
+    <a align="left" width="46%" href="https://github.com/ChaitanyaShah26/Restaurant-Website">
         <img align="center" width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=ChaitanyaShah26&repo=Restaurant-Website&theme=transparent&border_radius=10" alt="Restaurant Website">
     </a>
     &nbsp;
-    <a align="right" width="40%" href="https://github.com/ChaitanyaShah26/Charity-Website">
+    <a align="right" width="46%" href="https://github.com/ChaitanyaShah26/Charity-Website">
         <img align="center" width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=ChaitanyaShah26&repo=Charity-Website&theme=transparent&border_radius=10" alt="Charity Website">
     </a>
     <br><br>
