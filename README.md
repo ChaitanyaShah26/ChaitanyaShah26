@@ -7,7 +7,7 @@
 </h1>
 
 
-<img align="right" width=240px height=240px src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952hyirzx8n4ublx5hvs8zaqel1hk5r6fugq94kvlmv&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" />
+<img align="right" width=280px height=280px src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952hyirzx8n4ublx5hvs8zaqel1hk5r6fugq94kvlmv&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" />
 
 > _**I am a Sophomore Year Engineering Student at SVKM's Dwarkadas J. Sanghvi College of Engineering pursuing B.Tech. in Artificial Intelligence(AI) & Data Science.**_
 
@@ -16,15 +16,12 @@
   <a href="mailto:sendittochaitanya@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Chaitanya|GMail"/>
   </a>
-  &nbsp;
   <a href="https://instagram.com/chaitanyashah_">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Chaitanya|Instagram"/>
   </a>
-  &nbsp;
   <a href="https://www.linkedin.com/in/chaitanyav-shah">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="Chaitanya|LinkedIn"/>
   </a>
-  &nbsp;
   <a href="https://github.com/ChaitanyaShah26">
     <img src="https://skillicons.dev/icons?i=github" alt="Chaitanya|GitHub"/>
   </a>
