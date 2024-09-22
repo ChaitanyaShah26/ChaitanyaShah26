@@ -13,16 +13,16 @@
 
 ### Let's Connect!
 <p align="center">
-  <a href="mailto:sendittochaitanya@gmail.com">
+  <a href="mailto:sendittochaitanya@gmail.com" style="text-decoration: none">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Chaitanya|GMail"/>
   </a>
-  <a href="https://instagram.com/chaitanyashah_">
+  <a href="https://instagram.com/chaitanyashah_" style="text-decoration: none">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Chaitanya|Instagram"/>
   </a>
-  <a href="https://www.linkedin.com/in/chaitanyav-shah">
+  <a href="https://www.linkedin.com/in/chaitanyav-shah" style="text-decoration: none">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="Chaitanya|LinkedIn"/>
   </a>
-  <a href="https://github.com/ChaitanyaShah26">
+  <a href="https://github.com/ChaitanyaShah26" style="text-decoration: none">
     <img src="https://skillicons.dev/icons?i=github" alt="Chaitanya|GitHub"/>
   </a>
 </p>
@@ -66,19 +66,19 @@
 
 <h2 align="center">🖥️ My Repositories 🖥️</h2>
 <div align="center" width="100%">
-    <a align="left" width="46%" href="https://github.com/ChaitanyaShah26/Simple-Banking-Portal">
+    <a align="left" width="46%" href="https://github.com/ChaitanyaShah26/Simple-Banking-Portal" style="text-decoration: none">
         <img align="center" width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=ChaitanyaShah26&repo=Simple-Banking-Portal&theme=transparent&border_radius=10" alt="Simple Banking Portal">
     </a>
     &nbsp;
-    <a align="right" width="46%" href="https://github.com/ChaitanyaShah26/TicTacToe-PvP-Game">
+    <a align="right" width="46%" href="https://github.com/ChaitanyaShah26/TicTacToe-PvP-Game" style="text-decoration: none">
         <img align="center" width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=ChaitanyaShah26&repo=TicTacToe-PvP-Game&theme=transparent&border_radius=10" alt="TicTacToe PvP Game">
     </a>
     <br><br>
-    <a align="left" width="46%" href="https://github.com/ChaitanyaShah26/Restaurant-Website">
+    <a align="left" width="46%" href="https://github.com/ChaitanyaShah26/Restaurant-Website" style="text-decoration: none">
         <img align="center" width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=ChaitanyaShah26&repo=Restaurant-Website&theme=transparent&border_radius=10" alt="Restaurant Website">
     </a>
     &nbsp;
-    <a align="right" width="46%" href="https://github.com/ChaitanyaShah26/Charity-Website">
+    <a align="right" width="46%" href="https://github.com/ChaitanyaShah26/Charity-Website" style="text-decoration: none">
         <img align="center" width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=ChaitanyaShah26&repo=Charity-Website&theme=transparent&border_radius=10" alt="Charity Website">
     </a>
     <br><br>
