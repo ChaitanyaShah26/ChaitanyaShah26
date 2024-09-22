@@ -49,8 +49,8 @@
 
 <h2 align="center"> ⚙ Languages & Tools ⚙</h2>
 <p align="center">
-    <figure>
-        <img src="https://skillicons.dev/icons?i=c,java,html,css,js,python,figma,github,git,anaconda,sublime,windows" alt="Tech Stack"/>
+    <figure align="center">
+        <img align="center" src="https://skillicons.dev/icons?i=c,java,html,css,js,python,figma,github,git,anaconda,sublime,windows" alt="Tech Stack"/>
         <figcaption align="center"><small style="font-family: cursive">Tech Stack</small></figcaption>
     </figure>
 </p>
