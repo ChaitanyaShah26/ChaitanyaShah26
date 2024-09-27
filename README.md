@@ -7,7 +7,7 @@
 </h1>
 
 
-<img align="right" width=280px height=280px src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952hyirzx8n4ublx5hvs8zaqel1hk5r6fugq94kvlmv&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" />
+<img align="right" width=40% src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952hyirzx8n4ublx5hvs8zaqel1hk5r6fugq94kvlmv&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" />
 
 _**I am a Sophomore Year Engineering Student at SVKM's Dwarkadas J. Sanghvi College of Engineering pursuing B.Tech. in Artificial Intelligence(AI) & Data Science.**_
 
