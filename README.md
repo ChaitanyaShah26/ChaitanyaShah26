@@ -7,7 +7,7 @@
 </h1>
 
 
-<img align="right" width=40% src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952hyirzx8n4ublx5hvs8zaqel1hk5r6fugq94kvlmv&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" />
+<img align="right" width=40% src="profile_readme-images/programmer.gif" />
 
 _**I am a Sophomore Year Engineering Student at SVKM's Dwarkadas J. Sanghvi College of Engineering pursuing B.Tech. in Artificial Intelligence(AI) & Data Science.**_
 
@@ -48,7 +48,7 @@ _**I am a Sophomore Year Engineering Student at SVKM's Dwarkadas J. Sanghvi Coll
 
 <h2 align="center"> ⚙ Languages & Tools ⚙</h2>
 <p align="center">
-  <img align="center" src="https://skillicons.dev/icons?i=c,java,html,css,js,python,figma,github,git,anaconda,sublime,windows" alt="Tech Stack"/>
+  <img align="center" src="https://skillicons.dev/icons?i=c,java,html,css,js,python,markdown,figma,github,git,anaconda,sublime,windows&perline=10" alt="Tech Stack"/>
 </p>
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ChaitanyaShah26&layout=compact&langs_count=8&card_width=320&theme=github_dark&border_radius=12" />
