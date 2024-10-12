@@ -7,7 +7,7 @@
 </h1>
 
 
-<img align="right" width=40% src="profile_readme-images/programmer.gif" />
+<img align="right" width=40% style="margin: 10px" src="profile_readme-images/programmer.gif" />
 
 _**I am a Sophomore Year Engineering Student at SVKM's Dwarkadas J. Sanghvi College of Engineering pursuing B.Tech. in Artificial Intelligence(AI) & Data Science.**_
 
