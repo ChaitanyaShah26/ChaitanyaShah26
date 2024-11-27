@@ -48,7 +48,7 @@ _**I am a Sophomore Year Engineering Student at SVKM's Dwarkadas J. Sanghvi Coll
 
 <h2 align="center"> ⚙ Languages & Tools ⚙</h2>
 <p align="center">
-  <img align="center" src="https://skillicons.dev/icons?i=c,java,html,css,js,python,markdown,figma,github,git,anaconda,sublime,windows&perline=10" alt="Tech Stack"/>
+  <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=c,java,html,css,js,python,markdown,figma,github,git,anaconda,sublime,windows&perline=10" alt="Tech Stack"/>
 </p>
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ChaitanyaShah26&layout=compact&langs_count=8&card_width=320&theme=github_dark&border_radius=12" />
