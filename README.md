@@ -16,16 +16,19 @@ _**I am a Sophomore Year Engineering Student at SVKM's Dwarkadas J. Sanghvi Coll
 ### Let's Connect!
 <p align="center">
   <a href="mailto:sendittochaitanya@gmail.com" style="text-decoration: none">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Chaitanya|GMail"/>
+    <img src="https://skillicons.dev/icons?i=gmail" alt="GMail"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/chaitanyashah_" style="text-decoration: none">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Chaitanya|Instagram"/>
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/chaitanyav-shah" style="text-decoration: none">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="Chaitanya|LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/ChaitanyaShah26" style="text-decoration: none">
-    <img src="https://skillicons.dev/icons?i=github" alt="Chaitanya|GitHub"/>
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
   </a>
 </p>
 
