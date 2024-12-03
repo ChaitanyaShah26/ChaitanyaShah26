@@ -61,7 +61,7 @@ _**I am a Sophomore Year Engineering Student at SVKM's Dwarkadas J. Sanghvi Coll
 <h2 align="center">📊 GitHub Stats 📊</h2>
 <div align="center">
     <img align="center" width="46%" src="https://streak-stats.demolab.com/?user=ChaitanyaShah26&theme=github_dark&hide_border=false" />
-    <img align="center" width="46%" src="https://github-readme-stats.vercel.app/api?username=ChaitanyaShah26&show_icons=true&rank_icon=githu&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" />
+    <img align="center" width="46%" src="https://github-readme-stats.vercel.app/api?username=ChaitanyaShah26&show_icons=true&rank_icon=github&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" />
     <br><br>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChaitanyaShah26&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="Contribution Graph"/>
 </div>
