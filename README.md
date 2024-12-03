@@ -54,16 +54,16 @@ _**I am a Sophomore Year Engineering Student at SVKM's Dwarkadas J. Sanghvi Coll
   <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=c,java,html,css,js,python,markdown,github,git,jupyter,anaconda,autocad,sublime,canva,figma,notion,word,excel,powerpoint,chatgpt,microsoftcopilot,gemini,windows&perline=10" alt="Tech Stack"/>
 </p>
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ChaitanyaShah26&layout=compact&langs_count=8&card_width=320&theme=github_dark&border_radius=12" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaitanyaShah26&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=320" alt="Most Used Languages"/>
 </p>
 
 
 <h2 align="center">📊 GitHub Stats 📊</h2>
 <div align="center">
-    <img align="center" width="46%" src="https://streak-stats.demolab.com/?user=ChaitanyaShah26&theme=github_dark&border_radius=10" />
-    <img align="center" width="46%" src="https://github-readme-stats.vercel.app/api?username=ChaitanyaShah26&show_icons=true&rank_icon=github&theme=github_dark&border_radius=10" />
+    <img align="center" width="46%" src="https://streak-stats.demolab.com/?user=ChaitanyaShah26&theme=github_dark&hide_border=false" />
+    <img align="center" width="46%" src="https://github-readme-stats.vercel.app/api?username=ChaitanyaShah26&show_icons=true&rank_icon=githu&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" />
     <br><br>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChaitanyaShah26&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChaitanyaShah26&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="Contribution Graph"/>
 </div>
 
 
