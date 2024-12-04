@@ -18,15 +18,15 @@ _**I am a Sophomore Year Engineering Student at SVKM's Dwarkadas J. Sanghvi Coll
   <a href="mailto:sendittochaitanya@gmail.com" style="text-decoration: none">
     <img src="https://skillicons.dev/icons?i=gmail" alt="GMail"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="https://instagram.com/chaitanyashah_" style="text-decoration: none">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/chaitanyav-shah" style="text-decoration: none">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="https://github.com/ChaitanyaShah26" style="text-decoration: none">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
   </a>
@@ -41,7 +41,6 @@ _**I am a Sophomore Year Engineering Student at SVKM's Dwarkadas J. Sanghvi Coll
     <a href="https://instagram.com/chaitanyashah_" target="_blank"><img src="profile_readme-images/Instagram_logo.png" height="50" alt="instagram-logo"></a>
 </div> -->
 
----
 
 <h2>&#127942; GitHub Trophies<h2>
 <p align="center">
@@ -63,7 +62,7 @@ _**I am a Sophomore Year Engineering Student at SVKM's Dwarkadas J. Sanghvi Coll
     <img align="center" width="46%" src="https://streak-stats.demolab.com/?user=ChaitanyaShah26&theme=github_dark&hide_border=false" />
     <img align="center" width="46%" src="https://github-readme-stats.vercel.app/api?username=ChaitanyaShah26&show_icons=true&rank_icon=github&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" />
     <br><br>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChaitanyaShah26&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="Contribution Graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChaitanyaShah26&theme=react-dark&hide_border=false" width="100%" alt="Contribution Graph"/>
 </div>
 
 
