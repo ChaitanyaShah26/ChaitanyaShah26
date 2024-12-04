@@ -70,22 +70,22 @@ _**I am a Sophomore Year Engineering Student at SVKM's Dwarkadas J. Sanghvi Coll
 <h2 align="center">🖥️ My Repositories 🖥️</h2>
 <div align="center" width="100%">
     <a align="left" width="46%" href="https://github.com/ChaitanyaShah26/Simple-Banking-Portal" style="text-decoration: none">
-        <img align="center" width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=ChaitanyaShah26&repo=Simple-Banking-Portal&theme=github_dark_dimmed&border_radius=10" alt="Simple Banking Portal">
+        <img align="center" width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=ChaitanyaShah26&repo=Simple-Banking-Portal&theme=github_dark&hide_border=false&border_radius=10" alt="Simple Banking Portal">
     </a>
     &nbsp;
     <a align="right" width="46%" href="https://github.com/ChaitanyaShah26/TicTacToe-PvP-Game" style="text-decoration: none">
-        <img align="center" width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=ChaitanyaShah26&repo=TicTacToe-PvP-Game&theme=github_dark_dimmed&border_radius=10" alt="TicTacToe PvP Game">
+        <img align="center" width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=ChaitanyaShah26&repo=TicTacToe-PvP-Game&theme=github_dark&hide_border=false&border_radius=10" alt="TicTacToe PvP Game">
     </a>
     <br><br>
     <a align="left" width="46%" href="https://github.com/ChaitanyaShah26/Restaurant-Website" style="text-decoration: none">
-        <img align="center" width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=ChaitanyaShah26&repo=Restaurant-Website&theme=github_dark_dimmed&border_radius=10" alt="Restaurant Website">
+        <img align="center" width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=ChaitanyaShah26&repo=Restaurant-Website&theme=github_dark&hide_border=false&border_radius=10" alt="Restaurant Website">
     </a>
     &nbsp;
     <a align="right" width="46%" href="https://github.com/ChaitanyaShah26/Charity-Website" style="text-decoration: none">
-        <img align="center" width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=ChaitanyaShah26&repo=Charity-Website&theme=github_dark_dimmed&border_radius=10" alt="Charity Website">
+        <img align="center" width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=ChaitanyaShah26&repo=Charity-Website&theme=github_dark&hide_border=false&border_radius=10" alt="Charity Website">
     </a>
     <br><br>
-    <a align="center" width="100%" href="https://github.com/ChaitanyaShah26?tab=repositories">View All</a>
+    <a align="center" width="100%" href="https://github.com/ChaitanyaShah26?tab=repositories"><b>View All</b></a>
 </div>
 
 ##
