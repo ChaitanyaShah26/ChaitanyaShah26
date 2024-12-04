@@ -88,6 +88,12 @@ _**I am a Sophomore Year Engineering Student at SVKM's Dwarkadas J. Sanghvi Coll
     <a align="center" width="100%" href="https://github.com/ChaitanyaShah26?tab=repositories">View All</a>
 </div>
 
+##
+
+<p align="center">
+    <img src="https://visitcount.itsvg.in/api?id=ChaitanyaShah26&label=Profile%20Views&icon=0&color=12&pretty=true" alt="Profile Views">
+</p>
+
 <!--
 
 ## My GitHub Repositories/Projects:
