@@ -50,7 +50,7 @@ _**I am a Sophomore Year Engineering Student at SVKM's Dwarkadas J. Sanghvi Coll
 
 <h2 align="center"> ⚙ Languages & Tools ⚙</h2>
 <p align="center">
-  <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=c,java,html,css,js,python,markdown,github,git,jupyter,anaconda,autocad,sublime,canva,figma,notion,word,excel,powerpoint,chatgpt,microsoftcopilot,gemini,windows&perline=10" alt="Tech Stack"/>
+  <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=c,java,html,css,js,python,streamlit,mysql,plsql,kaggle,pbi,markdown,github,git,githubpages,jupyter,anaconda,autocad,sublime,vscode,canva,figma,notion,word,excel,powerpoint,chatgpt,microsoftcopilot,gemini,chrome,windows,teams,discord,linkedin,instagram&perline=10" alt="Tech Stack"/>
 </p>
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaitanyaShah26&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=320" alt="Most Used Languages"/>
