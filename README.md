@@ -84,14 +84,24 @@ _**I am a Sophomore Year Engineering Student at SVKM's Dwarkadas J. Sanghvi Coll
         <img align="center" width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=ChaitanyaShah26&repo=Charity-Website&theme=github_dark&hide_border=false&border_radius=10" alt="Charity Website">
     </a>
     <br><br>
+    <a align="left" width="46%" href="https://github.com/ChaitanyaShah26/BengaluruHousingDataAnalysis_Python-Project" style="text-decoration: none">
+        <img align="center" width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=ChaitanyaShah26&repo=BengaluruHousingDataAnalysis_Python-Project&theme=github_dark&hide_border=false&border_radius=10" alt="Simple Banking Portal">
+    </a>
+    &nbsp;
+    <a align="right" width="46%" href="https://github.com/ChaitanyaShah26/InventoryManagement_DBT-Project" style="text-decoration: none">
+        <img align="center" width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=ChaitanyaShah26&repo=InventoryManagement_DBT-Project&theme=github_dark&hide_border=false&border_radius=10" alt="Charity Website">
+    </a>
+    <br><br>
     <a align="center" width="100%" href="https://github.com/ChaitanyaShah26?tab=repositories"><b>View All</b></a>
 </div>
 
 ##
 
+<!--
 <p align="center">
     <img src="https://visitcount.itsvg.in/api?id=ChaitanyaShah26&label=Profile%20Views&icon=0&color=12&pretty=true" alt="Profile Views">
 </p>
+-->
 
 <!--
 
