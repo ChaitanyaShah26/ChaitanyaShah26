@@ -44,9 +44,49 @@ _**I am a Sophomore Year Engineering Student at SVKM's Dwarkadas J. Sanghvi Coll
 
 
 <h2 align="center"> ⚙ Languages & Tools ⚙</h2>
-<p align="center">
-  <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=c,java,html,css,js,python,streamlit,mysql,plsql,kaggle,pbi,markdown,github,git,githubpages,jupyter,anaconda,autocad,sublime,vscode,canva,figma,notion,word,excel,powerpoint,chatgpt,microsoftcopilot,gemini,chrome,windows,teams,discord,linkedin,instagram&perline=10" alt="Tech Stack"/>
-</p>
+<div style="margin: 10px; display: flex; flex-wrap: wrap; gap: 4px; justify-content: center">
+    <img alt="C" src="https://go-skill-icons.vercel.app/api/icons?i=c"/>
+    <img alt="Java" src="https://go-skill-icons.vercel.app/api/icons?i=java"/>
+    <img alt="Python" src="https://go-skill-icons.vercel.app/api/icons?i=python"/>
+    <img alt="HTML" src="https://go-skill-icons.vercel.app/api/icons?i=html"/>
+    <img alt="CSS" src="https://go-skill-icons.vercel.app/api/icons?i=css"/>
+    <img alt="JS" src="https://go-skill-icons.vercel.app/api/icons?i=javascript"/>
+    <img alt="MySQL" src="https://go-skill-icons.vercel.app/api/icons?i=mysql"/>
+    <img alt="PLSQL" src="https://go-skill-icons.vercel.app/api/icons?i=plsql"/>
+    <img alt="Markdown" src="https://go-skill-icons.vercel.app/api/icons?i=markdown"/>
+    <img alt="Git" src="https://go-skill-icons.vercel.app/api/icons?i=git"/>
+    <img alt="GitHub" src="https://go-skill-icons.vercel.app/api/icons?i=github"/>
+    <img alt="GitHub Pages" src="https://go-skill-icons.vercel.app/api/icons?i=githubpages"/>
+    <img alt="Streamlit" src="https://go-skill-icons.vercel.app/api/icons?i=streamlit"/>
+    <img alt="PowerBI" src="https://go-skill-icons.vercel.app/api/icons?i=pbi"/>
+    <img alt="Anaconda" src="https://go-skill-icons.vercel.app/api/icons?i=anaconda"/>
+    <img alt="Jupyter" src="https://go-skill-icons.vercel.app/api/icons?i=jupyter"/>
+    <img alt="Google Colab" src="https://simpleskill.icons.workers.dev/svg?i=googlecolab" style="scale: 88%; background-color: #242938; padding: 4px; border-radius: 10px"/>
+    <img alt="Canva" src="https://go-skill-icons.vercel.app/api/icons?i=canva"/>
+    <img alt="Figma" src="https://go-skill-icons.vercel.app/api/icons?i=figma"/>
+    <img alt="Framer" src="https://simpleskill.icons.workers.dev/svg?i=framer" style="scale: 88%;background-color: #242938; padding: 4px; border-radius: 10px"/>
+    <img alt="Mural" src="https://simpleskill.icons.workers.dev/svg?i=mural" style="scale: 88%; background-color: #242938; padding: 4px; border-radius: 10px"/>
+    <img alt="Notion" src="https://go-skill-icons.vercel.app/api/icons?i=notion"/>
+    <img alt="Sublime" src="https://go-skill-icons.vercel.app/api/icons?i=sublime"/>
+    <img alt="VS Code" src="https://go-skill-icons.vercel.app/api/icons?i=vscode"/>
+    <img alt="Vercel" src="https://go-skill-icons.vercel.app/api/icons?i=vercel"/>
+    <img alt="Netlify" src="https://go-skill-icons.vercel.app/api/icons?i=netlify"/>
+    <img alt="Autocad" src="https://go-skill-icons.vercel.app/api/icons?i=autocad"/>
+    <img alt="MS Word" src="https://go-skill-icons.vercel.app/api/icons?i=word"/>
+    <img alt="MS Excel" src="https://go-skill-icons.vercel.app/api/icons?i=excel"/>
+    <img alt="MS Powerpoint" src="https://go-skill-icons.vercel.app/api/icons?i=powerpoint"/>
+    <img alt="MS Teams" src="https://go-skill-icons.vercel.app/api/icons?i=teams"/>
+    <img alt="Kaggle" src="https://go-skill-icons.vercel.app/api/icons?i=kaggle"/>
+    <img alt="ChatGPT" src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt"/>
+    <img alt="MS Copilot" src="https://go-skill-icons.vercel.app/api/icons?i=microsoftcopilot"/>
+    <img alt="Gemini" src="https://go-skill-icons.vercel.app/api/icons?i=gemini"/>
+    <img alt="Windows" src="https://go-skill-icons.vercel.app/api/icons?i=windows"/>
+    <img alt="Chrome" src="https://go-skill-icons.vercel.app/api/icons?i=chrome"/>
+    <img alt="Discord" src="https://go-skill-icons.vercel.app/api/icons?i=discord"/>
+    <img alt="GMail" src="https://go-skill-icons.vercel.app/api/icons?i=gmail"/>
+    <img alt="Linkedin" src="https://go-skill-icons.vercel.app/api/icons?i=linkedin"/>
+    <img alt="Instagram" src="https://go-skill-icons.vercel.app/api/icons?i=instagram"/>
+</div>
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaitanyaShah26&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=320" alt="Most Used Languages"/>
 </p>
