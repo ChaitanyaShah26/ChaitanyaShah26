@@ -42,11 +42,6 @@ _**I am a Sophomore Year Engineering Student at SVKM's Dwarkadas J. Sanghvi Coll
 </div> -->
 
 
-<h2>&#127942; GitHub Trophies<h2>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ChaitanyaShah26" />
-</p>
-
 
 <h2 align="center"> ⚙ Languages & Tools ⚙</h2>
 <p align="center">
@@ -94,6 +89,11 @@ _**I am a Sophomore Year Engineering Student at SVKM's Dwarkadas J. Sanghvi Coll
     <br><br>
     <a align="center" width="100%" href="https://github.com/ChaitanyaShah26?tab=repositories"><b>View All</b></a>
 </div>
+
+<h2>&#127942; GitHub Trophies<h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ChaitanyaShah26&theme=radical" />
+</p>
 
 ##
 
