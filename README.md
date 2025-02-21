@@ -50,6 +50,7 @@ _**I am a Sophomore Year Engineering Student at SVKM's Dwarkadas J. Sanghvi Coll
     <img alt="Python" src="https://go-skill-icons.vercel.app/api/icons?i=python"/>
     <img alt="HTML" src="https://go-skill-icons.vercel.app/api/icons?i=html"/>
     <img alt="CSS" src="https://go-skill-icons.vercel.app/api/icons?i=css"/>
+    <img alt="Bootstrap" src="https://go-skill-icons.vercel.app/api/icons?i=bootstrap"/>
     <img alt="JS" src="https://go-skill-icons.vercel.app/api/icons?i=javascript"/>
     <img alt="MySQL" src="https://go-skill-icons.vercel.app/api/icons?i=mysql"/>
     <img alt="PLSQL" src="https://go-skill-icons.vercel.app/api/icons?i=plsql"/>
