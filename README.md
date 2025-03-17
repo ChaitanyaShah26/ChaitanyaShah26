@@ -135,8 +135,10 @@ _**I am a Sophomore Year Engineering Student at SVKM's Dwarkadas J. Sanghvi Coll
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ChaitanyaShah26&theme=radical" />
 </p>
-
-##
+    
+<h2 align="center"> 
+    <img src="https://komarev.com/ghpvc/?username=ChaitanyaShah26&label=Profile+Views&color=0e75b6&style=flat" alt="ChaitanyaShah26-Profile Views"/> 
+</h2>
 
 <!--
 <p align="center">
