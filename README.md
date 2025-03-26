@@ -103,6 +103,7 @@ _**I am a Sophomore Year Engineering Student at SVKM's Dwarkadas J. Sanghvi Coll
 </div>
 
 
+<!--
 <h2 align="center">🖥️ My Repositories 🖥️</h2>
 <div align="center" width="100%">
     <a align="left" width="46%" href="https://github.com/ChaitanyaShah26/Simple-Banking-Portal" style="text-decoration: none">
@@ -131,6 +132,8 @@ _**I am a Sophomore Year Engineering Student at SVKM's Dwarkadas J. Sanghvi Coll
     <br><br>
     <a align="center" width="100%" href="https://github.com/ChaitanyaShah26?tab=repositories"><b>View All</b></a>
 </div>
+-->
+
 
 <h2>&#127942; GitHub Trophies<h2>
 <p align="center">
