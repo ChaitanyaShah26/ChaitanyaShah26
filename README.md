@@ -90,7 +90,7 @@ _**I am a Sophomore Year Engineering Student at SVKM's Dwarkadas J. Sanghvi Coll
     <img alt="Instagram" src="https://go-skill-icons.vercel.app/api/icons?i=instagram"/>
 </div>
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaitanyaShah26&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=320" alt="Most Used Languages"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaitanyaShah26&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=320&langs_count=20" alt="Most Used Languages"/>
 </p>
 
 
