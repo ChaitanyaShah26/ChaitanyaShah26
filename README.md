@@ -57,6 +57,7 @@ _**I am a Sophomore Year Engineering Student at SVKM's Dwarkadas J. Sanghvi Coll
     <img alt="Git" src="https://go-skill-icons.vercel.app/api/icons?i=git"/>
     <img alt="GitHub" src="https://go-skill-icons.vercel.app/api/icons?i=github"/>
     <img alt="GitHub Pages" src="https://go-skill-icons.vercel.app/api/icons?i=githubpages"/>
+    <img alt="Terminal" src="https://go-skill-icons.vercel.app/api/icons?i=terminal"/>
     <img alt="Streamlit" src="https://go-skill-icons.vercel.app/api/icons?i=streamlit"/>
     <img alt="PowerBI" src="https://go-skill-icons.vercel.app/api/icons?i=pbi"/>
     <img alt="Anaconda" src="https://go-skill-icons.vercel.app/api/icons?i=anaconda"/>
@@ -64,8 +65,7 @@ _**I am a Sophomore Year Engineering Student at SVKM's Dwarkadas J. Sanghvi Coll
     <img alt="Google Colab" src="https://go-skill-icons.vercel.app/api/icons?i=googlecolab"/>
     <img alt="Canva" src="https://go-skill-icons.vercel.app/api/icons?i=canva"/>
     <img alt="Figma" src="https://go-skill-icons.vercel.app/api/icons?i=figma"/>
-    <img alt="Framer" src="https://simpleskill.icons.workers.dev/svg?i=framer" style="scale: 88%;background-color: #242938; padding: 4px; border-radius: 10px"/>
-    <img alt="Mural" src="https://simpleskill.icons.workers.dev/svg?i=mural" style="scale: 88%; background-color: #242938; padding: 4px; border-radius: 10px"/>
+    <img alt="Framer" src="https://go-skill-icons.vercel.app/api/icons?i=framer"/>
     <img alt="Notion" src="https://go-skill-icons.vercel.app/api/icons?i=notion"/>
     <img alt="Sublime" src="https://go-skill-icons.vercel.app/api/icons?i=sublime"/>
     <img alt="VS Code" src="https://go-skill-icons.vercel.app/api/icons?i=vscode"/>
@@ -76,11 +76,11 @@ _**I am a Sophomore Year Engineering Student at SVKM's Dwarkadas J. Sanghvi Coll
     <img alt="MS Excel" src="https://go-skill-icons.vercel.app/api/icons?i=excel"/>
     <img alt="MS Powerpoint" src="https://go-skill-icons.vercel.app/api/icons?i=powerpoint"/>
     <img alt="MS Teams" src="https://go-skill-icons.vercel.app/api/icons?i=teams"/>
-    <img alt="Kaggle" src="https://go-skill-icons.vercel.app/api/icons?i=kaggle"/>
     <img alt="ChatGPT" src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt"/>
     <img alt="MS Copilot" src="https://go-skill-icons.vercel.app/api/icons?i=microsoftcopilot"/>
     <img alt="Gemini" src="https://go-skill-icons.vercel.app/api/icons?i=gemini"/>
     <img alt="GitHub Copilot" src="https://go-skill-icons.vercel.app/api/icons?i=githubcopilot"/>
+    <img alt="Claude" src="https://go-skill-icons.vercel.app/api/icons?i=claude"/>
     <img alt="Windows" src="https://go-skill-icons.vercel.app/api/icons?i=windows"/>
     <img alt="Chrome" src="https://go-skill-icons.vercel.app/api/icons?i=chrome"/>
     <img alt="Discord" src="https://go-skill-icons.vercel.app/api/icons?i=discord"/>
