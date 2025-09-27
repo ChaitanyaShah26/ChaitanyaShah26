@@ -11,7 +11,7 @@
 
 _**I am a Third Year Engineering Student at SVKM's Dwarkadas J. Sanghvi College of Engineering pursuing B.Tech. in Artificial Intelligence(AI) & Data Science.**_
 
-[![My Portfolio](https://img.shields.io/badge/view_my_portfolio-040C18?style=for-the-badge&labelColor=040C18)](https://chaitanyashah.netlify.app)
+[![My Portfolio](https://img.shields.io/badge/view_my_portfolio-040C18?style=for-the-badge&labelColor=040C18)](https://chaitanyashah.is-a.dev)
 
 ### Let's Connect!
 <p align="center">
