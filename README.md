@@ -60,6 +60,7 @@ _**I am a Third Year Engineering Student at SVKM's Dwarkadas J. Sanghvi College 
     <img alt="Terminal" src="https://go-skill-icons.vercel.app/api/icons?i=terminal"/>
     <img alt="Streamlit" src="https://go-skill-icons.vercel.app/api/icons?i=streamlit"/>
     <img alt="PowerBI" src="https://go-skill-icons.vercel.app/api/icons?i=pbi"/>
+    <img alt="Tableau" src="https://go-skill-icons.vercel.app/api/icons?i=tableau"/>
     <img alt="Anaconda" src="https://go-skill-icons.vercel.app/api/icons?i=anaconda"/>
     <img alt="Jupyter" src="https://go-skill-icons.vercel.app/api/icons?i=jupyter"/>
     <img alt="Google Colab" src="https://go-skill-icons.vercel.app/api/icons?i=googlecolab"/>
