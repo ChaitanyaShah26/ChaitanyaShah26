@@ -55,6 +55,7 @@ _**I am a Third Year Engineering Student at SVKM's Dwarkadas J. Sanghvi College 
     <img alt="MySQL" title="MySQL" src="https://go-skill-icons.vercel.app/api/icons?i=mysql"/>
     <img alt="Markdown" title=Markdown" src="https://go-skill-icons.vercel.app/api/icons?i=markdown"/>
     <img alt="Git" title="Git" src="https://go-skill-icons.vercel.app/api/icons?i=git"/>
+    <img alt="GitBash" title="Git Bash" src="https://go-skill-icons.vercel.app/api/icons?i=gitbash"/>
     <img alt="GitHub" title="GitHub" src="https://go-skill-icons.vercel.app/api/icons?i=github"/>
     <img alt="GitHub Pages" title="Github Pages" src="https://go-skill-icons.vercel.app/api/icons?i=githubpages"/>
     <img alt="Terminal" title="Terminal" src="https://go-skill-icons.vercel.app/api/icons?i=terminal"/>
@@ -84,9 +85,12 @@ _**I am a Third Year Engineering Student at SVKM's Dwarkadas J. Sanghvi College 
     <img alt="Claude" title="Claude" src="https://go-skill-icons.vercel.app/api/icons?i=claude"/>
     <img alt="Windows" title="Windows" src="https://go-skill-icons.vercel.app/api/icons?i=windows"/>
     <img alt="Chrome" title="Chrome" src="https://go-skill-icons.vercel.app/api/icons?i=chrome"/>
+    <img alt="Edge" title="Edge" src="https://go-skill-icons.vercel.app/api/icons?i=edge"/>
+    <img alt="Arc" title="Arc" src="https://go-skill-icons.vercel.app/api/icons?i=arcbrowser"/>
     <img alt="Discord" title="Discord" src="https://go-skill-icons.vercel.app/api/icons?i=discord"/>
     <img alt="GMail" title="GMail" src="https://go-skill-icons.vercel.app/api/icons?i=gmail"/>
     <img alt="Outlook" title="Outlook" src="https://go-skill-icons.vercel.app/api/icons?i=outlook"/>
+    <img alt="OneDrive" title="OneDrive" src="https://go-skill-icons.vercel.app/api/icons?i=onedrive"/>
 </div>
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaitanyaShah26&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=320&langs_count=20" alt="Most Used Languages"/>
