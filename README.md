@@ -52,8 +52,10 @@ _**I am a Third Year Engineering Student at SVKM's Dwarkadas J. Sanghvi College 
     <img alt="CSS" title="CSS" src="https://go-skill-icons.vercel.app/api/icons?i=css"/>
     <img alt="Bootstrap" title="Bootstrap" src="https://go-skill-icons.vercel.app/api/icons?i=bootstrap"/>
     <img alt="JS" title="JavaScript" src="https://go-skill-icons.vercel.app/api/icons?i=javascript"/>
+    <img alt="React" title="React" src="https://go-skill-icons.vercel.app/api/icons?i=react"/>
+    <img alt="Vite" title="Vite" src="https://go-skill-icons.vercel.app/api/icons?i=vite"/>
     <img alt="MySQL" title="MySQL" src="https://go-skill-icons.vercel.app/api/icons?i=mysql"/>
-    <img alt="Markdown" title=Markdown" src="https://go-skill-icons.vercel.app/api/icons?i=markdown"/>
+    <img alt="Markdown" title="Markdown" src="https://go-skill-icons.vercel.app/api/icons?i=markdown"/>
     <img alt="Git" title="Git" src="https://go-skill-icons.vercel.app/api/icons?i=git"/>
     <img alt="GitBash" title="Git Bash" src="https://go-skill-icons.vercel.app/api/icons?i=gitbash"/>
     <img alt="GitHub" title="GitHub" src="https://go-skill-icons.vercel.app/api/icons?i=github"/>
@@ -64,6 +66,10 @@ _**I am a Third Year Engineering Student at SVKM's Dwarkadas J. Sanghvi College 
     <img alt="Tableau" title="Tableau" src="https://go-skill-icons.vercel.app/api/icons?i=tableau"/>
     <img alt="Anaconda" title="Anaconda" src="https://go-skill-icons.vercel.app/api/icons?i=anaconda"/>
     <img alt="Jupyter" title="Jupyter" src="https://go-skill-icons.vercel.app/api/icons?i=jupyter"/>
+    <img alt="NumPy" title="NumPy" src="https://go-skill-icons.vercel.app/api/icons?i=numpy"/>
+    <img alt="Pandas" title="Pandas" src="https://go-skill-icons.vercel.app/api/icons?i=pandas"/>
+    <img alt="Matplotlib" title="Matplotlib" src="https://go-skill-icons.vercel.app/api/icons?i=matplotlib"/>
+    <img alt="Seaborn" title="Jupyter" src="https://go-skill-icons.vercel.app/api/icons?i=seaborn"/>
     <img alt="Google Colab" title="Google Colab" src="https://go-skill-icons.vercel.app/api/icons?i=googlecolab"/>
     <img alt="Canva" title="Canva" src="https://go-skill-icons.vercel.app/api/icons?i=canva"/>
     <img alt="Figma" title="Figma" src="https://go-skill-icons.vercel.app/api/icons?i=figma"/>
@@ -87,10 +93,6 @@ _**I am a Third Year Engineering Student at SVKM's Dwarkadas J. Sanghvi College 
     <img alt="Chrome" title="Chrome" src="https://go-skill-icons.vercel.app/api/icons?i=chrome"/>
     <img alt="Edge" title="Edge" src="https://go-skill-icons.vercel.app/api/icons?i=edge"/>
     <img alt="Arc" title="Arc" src="https://go-skill-icons.vercel.app/api/icons?i=arcbrowser"/>
-    <img alt="Discord" title="Discord" src="https://go-skill-icons.vercel.app/api/icons?i=discord"/>
-    <img alt="GMail" title="GMail" src="https://go-skill-icons.vercel.app/api/icons?i=gmail"/>
-    <img alt="Outlook" title="Outlook" src="https://go-skill-icons.vercel.app/api/icons?i=outlook"/>
-    <img alt="OneDrive" title="OneDrive" src="https://go-skill-icons.vercel.app/api/icons?i=onedrive"/>
 </div>
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaitanyaShah26&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=320&langs_count=20" alt="Most Used Languages"/>
@@ -106,38 +108,6 @@ _**I am a Third Year Engineering Student at SVKM's Dwarkadas J. Sanghvi College 
 </div>
 
 
-<!--
-<h2 align="center">🖥️ My Repositories 🖥️</h2>
-<div align="center" width="100%">
-    <a align="left" width="46%" href="https://github.com/ChaitanyaShah26/Simple-Banking-Portal" style="text-decoration: none">
-        <img align="center" width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=ChaitanyaShah26&repo=Simple-Banking-Portal&theme=github_dark&hide_border=false&border_radius=10" alt="Simple Banking Portal">
-    </a>
-    &nbsp;
-    <a align="right" width="46%" href="https://github.com/ChaitanyaShah26/TicTacToe-PvP-Game" style="text-decoration: none">
-        <img align="center" width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=ChaitanyaShah26&repo=TicTacToe-PvP-Game&theme=github_dark&hide_border=false&border_radius=10" alt="TicTacToe PvP Game">
-    </a>
-    <br><br>
-    <a align="left" width="46%" href="https://github.com/ChaitanyaShah26/Restaurant-Website" style="text-decoration: none">
-        <img align="center" width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=ChaitanyaShah26&repo=Restaurant-Website&theme=github_dark&hide_border=false&border_radius=10" alt="Restaurant Website">
-    </a>
-    &nbsp;
-    <a align="right" width="46%" href="https://github.com/ChaitanyaShah26/Charity-Website" style="text-decoration: none">
-        <img align="center" width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=ChaitanyaShah26&repo=Charity-Website&theme=github_dark&hide_border=false&border_radius=10" alt="Charity Website">
-    </a>
-    <br><br>
-    <a align="left" width="46%" href="https://github.com/ChaitanyaShah26/BengaluruHousingDataAnalysis_Python-Project" style="text-decoration: none">
-        <img align="center" width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=ChaitanyaShah26&repo=BengaluruHousingDataAnalysis_Python-Project&theme=github_dark&hide_border=false&border_radius=10" alt="Simple Banking Portal">
-    </a>
-    &nbsp;
-    <a align="right" width="46%" href="https://github.com/ChaitanyaShah26/InventoryManagement_DBT-Project" style="text-decoration: none">
-        <img align="center" width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=ChaitanyaShah26&repo=InventoryManagement_DBT-Project&theme=github_dark&hide_border=false&border_radius=10" alt="Charity Website">
-    </a>
-    <br><br>
-    <a align="center" width="100%" href="https://github.com/ChaitanyaShah26?tab=repositories"><b>View All</b></a>
-</div>
--->
-
-
 <h2>&#127942; GitHub Trophies<h2>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ChaitanyaShah26&theme=radical" />
@@ -146,35 +116,3 @@ _**I am a Third Year Engineering Student at SVKM's Dwarkadas J. Sanghvi College 
 <h2 align="center"> 
     <img src="https://komarev.com/ghpvc/?username=ChaitanyaShah26&label=Profile+Views&color=0e75b6&style=flat" alt="ChaitanyaShah26-Profile Views"/> 
 </h2>
-
-<!--
-<p align="center">
-    <img src="https://visitcount.itsvg.in/api?id=ChaitanyaShah26&label=Profile%20Views&icon=0&color=12&pretty=true" alt="Profile Views">
-</p>
--->
-
-<!--
-
-## My GitHub Repositories/Projects:
-* Simple Banking Portal 
-```
-https://github.com/ChaitanyaShah26/Simple-Banking-Portal
-```
-> Languages Used:- `Java`&nbsp;&nbsp;`Java Swing`
-* TicTacToe PvP Game
-```
-https://github.com/ChaitanyaShah26/TicTacToe-PvP-Game
-```
-> Languages Used:- `Java`&nbsp;&nbsp;`Java Swing`
-* Restaurant Website
-```
-https://github.com/ChaitanyaShah26/Restaurant-Website
-```
-> Languages Used:- `HTML`&nbsp;&nbsp;`CSS`
-* Charity Website
-```
-https://github.com/ChaitanyaShah26/Charity-Website
-```
-> Languages Used:- `HTML`&nbsp;&nbsp;`CSS`
-
--->
