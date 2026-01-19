@@ -51,6 +51,7 @@ _**I am a Third Year Engineering Student at SVKM's Dwarkadas J. Sanghvi College 
     <img alt="HTML" title="HTML" src="https://go-skill-icons.vercel.app/api/icons?i=html"/>
     <img alt="CSS" title="CSS" src="https://go-skill-icons.vercel.app/api/icons?i=css"/>
     <img alt="Bootstrap" title="Bootstrap" src="https://go-skill-icons.vercel.app/api/icons?i=bootstrap"/>
+    <img alt="TailwindCSS" title="Tailwind CSS" src="https://go-skill-icons.vercel.app/api/icons?i=tailwind"/>
     <img alt="JS" title="JavaScript" src="https://go-skill-icons.vercel.app/api/icons?i=javascript"/>
     <img alt="React" title="React" src="https://go-skill-icons.vercel.app/api/icons?i=react"/>
     <img alt="Vite" title="Vite" src="https://go-skill-icons.vercel.app/api/icons?i=vite"/>
