@@ -55,6 +55,8 @@ _**I am a Third Year Engineering Student at SVKM's Dwarkadas J. Sanghvi College 
     <img alt="JS" title="JavaScript" src="https://go-skill-icons.vercel.app/api/icons?i=javascript"/>
     <img alt="React" title="React" src="https://go-skill-icons.vercel.app/api/icons?i=react"/>
     <img alt="Vite" title="Vite" src="https://go-skill-icons.vercel.app/api/icons?i=vite"/>
+    <img alt="React Bootstrap" title="React Bootstrap" src="https://go-skill-icons.vercel.app/api/icons?i=reactbootstrap"/>
+    <img alt="React Router" title="React Router" src="https://go-skill-icons.vercel.app/api/icons?i=reactrouter"/>
     <img alt="MySQL" title="MySQL" src="https://go-skill-icons.vercel.app/api/icons?i=mysql"/>
     <img alt="Markdown" title="Markdown" src="https://go-skill-icons.vercel.app/api/icons?i=markdown"/>
     <img alt="Git" title="Git" src="https://go-skill-icons.vercel.app/api/icons?i=git"/>
@@ -80,6 +82,7 @@ _**I am a Third Year Engineering Student at SVKM's Dwarkadas J. Sanghvi College 
     <img alt="VS Code" title="VS Code" src="https://go-skill-icons.vercel.app/api/icons?i=vscode"/>
     <img alt="Vercel" title="Vercel" src="https://go-skill-icons.vercel.app/api/icons?i=vercel"/>
     <img alt="Netlify" title="Netlify" src="https://go-skill-icons.vercel.app/api/icons?i=netlify"/>
+    <img alt="Axios" title="Axios" src="https://go-skill-icons.vercel.app/api/icons?i=axios"/>
     <img alt="Autocad" title="AutoCAD" src="https://go-skill-icons.vercel.app/api/icons?i=autocad"/>
     <img alt="MS Word" title="MS Word" src="https://go-skill-icons.vercel.app/api/icons?i=word"/>
     <img alt="MS Excel" title="MS Excel" src="https://go-skill-icons.vercel.app/api/icons?i=excel"/>
