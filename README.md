@@ -98,9 +98,9 @@ _**I am a Third Year Engineering Student at SVKM's Dwarkadas J. Sanghvi College 
     <img alt="Edge" title="Edge" src="https://go-skill-icons.vercel.app/api/icons?i=edge"/>
     <img alt="Arc" title="Arc" src="https://go-skill-icons.vercel.app/api/icons?i=arcbrowser"/>
 </div>
-<p align="center">
+<!-- <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaitanyaShah26&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=320&langs_count=20" alt="Most Used Languages"/>
-</p>
+</p> -->
 
 
 <h2 align="center">📊 GitHub Stats 📊</h2>
