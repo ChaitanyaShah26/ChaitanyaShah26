@@ -44,6 +44,7 @@ _**I am a Third Year Engineering Student at SVKM's Dwarkadas J. Sanghvi College 
 
 
 <h2 align="center"> ⚙ Languages & Tools ⚙</h2>
+<p align="center">Tech stack I have explored and used</p>
 <div style="margin: 10px; display: flex; flex-wrap: wrap; gap: 4px; justify-content: center">
     <img alt="C" title="C" src="https://go-skill-icons.vercel.app/api/icons?i=c"/>
     <img alt="Java" title="Java" src="https://go-skill-icons.vercel.app/api/icons?i=java"/>
@@ -56,14 +57,22 @@ _**I am a Third Year Engineering Student at SVKM's Dwarkadas J. Sanghvi College 
     <img alt="React" title="React" src="https://go-skill-icons.vercel.app/api/icons?i=react"/>
     <img alt="Vite" title="Vite" src="https://go-skill-icons.vercel.app/api/icons?i=vite"/>
     <img alt="React Bootstrap" title="React Bootstrap" src="https://go-skill-icons.vercel.app/api/icons?i=reactbootstrap"/>
+    <img alt="Shadcn" title="Shadcn" src="https://go-skill-icons.vercel.app/api/icons?i=shadcn"/>
     <img alt="React Router" title="React Router" src="https://go-skill-icons.vercel.app/api/icons?i=reactrouter"/>
+    <img alt="Next.js" title="Next.js" src="https://go-skill-icons.vercel.app/api/icons?i=nextjs"/>
+    <img alt="FastAPI" title="FastAPI" src="https://go-skill-icons.vercel.app/api/icons?i=fastapi"/>
     <img alt="MySQL" title="MySQL" src="https://go-skill-icons.vercel.app/api/icons?i=mysql"/>
+    <img alt="Supabase" title="Supabase" src="https://go-skill-icons.vercel.app/api/icons?i=supabase"/>
+    <img alt="MongoDB" title="MongoDB" src="https://go-skill-icons.vercel.app/api/icons?i=mongodb"/>
     <img alt="Markdown" title="Markdown" src="https://go-skill-icons.vercel.app/api/icons?i=markdown"/>
     <img alt="Git" title="Git" src="https://go-skill-icons.vercel.app/api/icons?i=git"/>
     <img alt="GitBash" title="Git Bash" src="https://go-skill-icons.vercel.app/api/icons?i=gitbash"/>
     <img alt="GitHub" title="GitHub" src="https://go-skill-icons.vercel.app/api/icons?i=github"/>
-    <img alt="GitHub Pages" title="Github Pages" src="https://go-skill-icons.vercel.app/api/icons?i=githubpages"/>
     <img alt="Terminal" title="Terminal" src="https://go-skill-icons.vercel.app/api/icons?i=terminal"/>
+    <img alt="Node.js" title="Node.js" src="https://go-skill-icons.vercel.app/api/icons?i=nodejs"/>
+    <img alt="Express.js" title="Express.js" src="https://go-skill-icons.vercel.app/api/icons?i=expressjs"/>
+    <img alt="API" title="API" src="https://go-skill-icons.vercel.app/api/icons?i=api"/>
+    <img alt="JSON" title="JSON" src="https://go-skill-icons.vercel.app/api/icons?i=json"/>
     <img alt="Streamlit" title="Streamlit" src="https://go-skill-icons.vercel.app/api/icons?i=streamlit"/>
     <img alt="PowerBI" title="PowerBI" src="https://go-skill-icons.vercel.app/api/icons?i=pbi"/>
     <img alt="Tableau" title="Tableau" src="https://go-skill-icons.vercel.app/api/icons?i=tableau"/>
@@ -77,17 +86,18 @@ _**I am a Third Year Engineering Student at SVKM's Dwarkadas J. Sanghvi College 
     <img alt="Canva" title="Canva" src="https://go-skill-icons.vercel.app/api/icons?i=canva"/>
     <img alt="Figma" title="Figma" src="https://go-skill-icons.vercel.app/api/icons?i=figma"/>
     <img alt="Framer" title="Framer" src="https://go-skill-icons.vercel.app/api/icons?i=framer"/>
-    <img alt="Notion" title="Notion" src="https://go-skill-icons.vercel.app/api/icons?i=notion"/>
-    <img alt="Sublime" title="Sublime" src="https://go-skill-icons.vercel.app/api/icons?i=sublime"/>
-    <img alt="VS Code" title="VS Code" src="https://go-skill-icons.vercel.app/api/icons?i=vscode"/>
+    <img alt="GitHub Pages" title="Github Pages" src="https://go-skill-icons.vercel.app/api/icons?i=githubpages"/>
     <img alt="Vercel" title="Vercel" src="https://go-skill-icons.vercel.app/api/icons?i=vercel"/>
     <img alt="Netlify" title="Netlify" src="https://go-skill-icons.vercel.app/api/icons?i=netlify"/>
-    <img alt="Axios" title="Axios" src="https://go-skill-icons.vercel.app/api/icons?i=axios"/>
-    <img alt="Autocad" title="AutoCAD" src="https://go-skill-icons.vercel.app/api/icons?i=autocad"/>
+    <img alt="Render" title="Render" src="https://go-skill-icons.vercel.app/api/icons?i=render"/>
+    <img alt="Sublime" title="Sublime" src="https://go-skill-icons.vercel.app/api/icons?i=sublime"/>
+    <img alt="VS Code" title="VS Code" src="https://go-skill-icons.vercel.app/api/icons?i=vscode"/>
+    <img alt="Notion" title="Notion" src="https://go-skill-icons.vercel.app/api/icons?i=notion"/>
     <img alt="MS Word" title="MS Word" src="https://go-skill-icons.vercel.app/api/icons?i=word"/>
     <img alt="MS Excel" title="MS Excel" src="https://go-skill-icons.vercel.app/api/icons?i=excel"/>
     <img alt="MS Powerpoint" title="MS PowerPoint" src="https://go-skill-icons.vercel.app/api/icons?i=powerpoint"/>
     <img alt="MS Teams" title="MS Teams" src="https://go-skill-icons.vercel.app/api/icons?i=teams"/>
+    <img alt="Groq" title="Groq" src="https://go-skill-icons.vercel.app/api/icons?i=groq"/>
     <img alt="ChatGPT" title="ChatGPT" src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt"/>
     <img alt="MS Copilot" title="MS Copilot" src="https://go-skill-icons.vercel.app/api/icons?i=microsoftcopilot"/>
     <img alt="Gemini" title="Gemini" src="https://go-skill-icons.vercel.app/api/icons?i=gemini"/>
