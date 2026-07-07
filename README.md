@@ -103,6 +103,7 @@ _**I am a Third Year Engineering Student at SVKM's Dwarkadas J. Sanghvi College 
     <img alt="Gemini" title="Gemini" src="https://go-skill-icons.vercel.app/api/icons?i=gemini"/>
     <img alt="GitHub Copilot" title="GitHub Copilot" src="https://go-skill-icons.vercel.app/api/icons?i=githubcopilot"/>
     <img alt="Claude" title="Claude" src="https://go-skill-icons.vercel.app/api/icons?i=claude"/>
+    <img alt="Ollama" title="Ollama" src="https://go-skill-icons.vercel.app/api/icons?i=ollama"/>
     <img alt="Windows" title="Windows" src="https://go-skill-icons.vercel.app/api/icons?i=windows"/>
     <img alt="Chrome" title="Chrome" src="https://go-skill-icons.vercel.app/api/icons?i=chrome"/>
     <img alt="Edge" title="Edge" src="https://go-skill-icons.vercel.app/api/icons?i=edge"/>
